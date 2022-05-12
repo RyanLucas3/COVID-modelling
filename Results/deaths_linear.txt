@@ -1,0 +1,31 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &     beta &  adj\_R\textasciicircum 2 &  p\_values \\
+\midrule
+delta\_deaths\_per\_capita                  &   1.0000 &   1.0000 &    0.0000 \\
+delta\_deaths\_per\_capita\_United\_Kingdom   &   0.5327 &   0.5026 &    0.0000 \\
+delta\_deaths\_per\_capita\_Germany          &   0.6911 &   0.2884 &    0.0001 \\
+delta\_deaths\_per\_capita\_l1               &   0.5261 &   0.2756 &    0.0000 \\
+delta\_deaths\_per\_capita\_France           &   0.3900 &   0.1511 &    0.0000 \\
+full\_lockdown                            &   0.0000 &   0.1391 &    0.0002 \\
+season                                   &  -0.0000 &   0.1231 &    0.0006 \\
+min\_tp                                   &  -0.0000 &   0.0706 &    0.0002 \\
+delta\_cases\_per\_capita\_l1                &   0.0034 &   0.0298 &    0.0354 \\
+delta\_cases\_per\_capita                   &   0.0030 &   0.0240 &    0.0552 \\
+delta\_cases\_per\_capita\_Germany           &   0.0050 &   0.0152 &    0.0981 \\
+day\_of\_the\_week                          &   0.0000 &   0.0116 &    0.0005 \\
+trend                                    &  -0.0000 &   0.0106 &    0.2340 \\
+delta\_cases\_per\_capita\_France            &   0.0017 &   0.0091 &    0.2085 \\
+log\_new\_vaccines\_per\_capita              &  22.0647 &   0.0083 &    0.1784 \\
+full\_lockdown\_l30                        &   0.0000 &   0.0069 &    0.3053 \\
+log\_new\_people\_vaccinated\_per\_capita     &  17.2487 &   0.0048 &    0.1714 \\
+delta\_cases\_per\_capita\_United\_Kingdom    &   0.0011 &   0.0030 &    0.4390 \\
+delta\_cases\_per\_capita\_United\_Kingdom\_l1 &   0.0011 &   0.0029 &    0.4608 \\
+humidity                                 &  -0.0000 &   0.0010 &    0.0990 \\
+delta\_cases\_per\_capita\_France\_l1         &   0.0008 &   0.0008 &    0.4139 \\
+full\_lockdown\_l45                        &  -0.0000 &   0.0006 &    0.5902 \\
+delta\_cases\_per\_capita\_Germany\_l1        &   0.0017 &   0.0004 &    0.5320 \\
+rain                                     &   0.0000 &   0.0002 &    0.5164 \\
+max\_tp                                   &   0.0000 &  -0.0016 &    0.9878 \\
+\bottomrule
+\end{tabular}

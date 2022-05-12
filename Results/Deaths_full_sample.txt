@@ -1,0 +1,22 @@
+\begin{tabular}{lr}
+\toprule
+                                          &    0 \\
+0 &      \\
+\midrule
+(OLS, ARNone, Regressor = delta\_deaths\_per\_capita\_United Kingdom) &  126 \\
+(ARX, AR1, Regressor = delta\_deaths\_per\_capita\_United Kingdom) &   66 \\
+(AR, AR2, Regressor = None) &   50 \\
+(ARX, AR1, Regressor = delta\_deaths\_per\_capita\_France) &   49 \\
+(ARX, AR2, Regressor = delta\_deaths\_per\_capita\_France) &   32 \\
+(ARX, AR2, Regressor = delta\_deaths\_per\_capita\_United Kingdom) &   24 \\
+(OLS, ARNone, Regressor = full\_lockdown) &   14 \\
+(ARX, AR1, Regressor = day\_of\_the\_week) &   12 \\
+(ARX, AR1, Regressor = full\_lockdown.l45) &   12 \\
+(ARX, AR2, Regressor = delta\_deaths\_per\_capita\_Germany) &   10 \\
+(ARX, AR1, Regressor = full\_lockdown) &    4 \\
+(ARX, AR2, Regressor = day\_of\_the\_week) &    4 \\
+(OLS, ARNone, Regressor = delta\_deaths\_per\_capita\_France) &    3 \\
+(ARX, AR2, Regressor = full\_lockdown) &    2 \\
+(ARX, AR2, Regressor = full\_lockdown.l45) &    2 \\
+\bottomrule
+\end{tabular}

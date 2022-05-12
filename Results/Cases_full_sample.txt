@@ -1,0 +1,24 @@
+\begin{tabular}{lr}
+\toprule
+                                                                 &    0 \\
+0 &      \\
+\midrule
+(ARX, AR2, Regressor = delta\_cases\_per\_capita\_United\_Kingdom) &  124 \\
+(ARX, AR2, Regressor = log\_new\_people\_vaccinated\_per\_capita) &   84 \\
+(ARX, AR1, Regressor = delta\_cases\_per\_capita\_United\_Kingdom) &   64 \\
+(ARX, AR2, Regressor = humidity) &   21 \\
+(ARX, AR2, Regressor = delta\_cases\_per\_capita\_Germany) &   17 \\
+(ARX, AR2, Regressor = day\_of\_the\_week) &   17 \\
+(ARX, AR2, Regressor = rain) &   15 \\
+(ARX, AR1, Regressor = trend) &   15 \\
+(AR, AR2, Regressor = None) &   13 \\
+(ARX, AR2, Regressor = season) &   11 \\
+(ARX, AR2, Regressor = delta\_cases\_per\_capita\_France) &   10 \\
+(ARX, AR2, Regressor = min\_tp) &    8 \\
+(ARX, AR2, Regressor = trend) &    4 \\
+(ARX, AR1, Regressor = season) &    3 \\
+(ARX, AR1, Regressor = humidity) &    2 \\
+(ARX, AR1, Regressor = log\_new\_people\_vaccinated\_per\_capita) &    1 \\
+(OLS, ARNone, Regressor = delta\_cases\_per\_capita\_United\_Kingdom) &    1 \\
+\bottomrule
+\end{tabular}

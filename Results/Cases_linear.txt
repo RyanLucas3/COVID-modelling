@@ -1,0 +1,31 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &       beta &  adj\_R\textasciicircum 2 &  p\_values \\
+\midrule
+delta\_cases\_per\_capita                   &     1.0000 &   1.0000 &    0.0000 \\
+delta\_cases\_per\_capita\_l1                &     0.9432 &   0.8831 &    0.0000 \\
+delta\_cases\_per\_capita\_United\_Kingdom\_l1 &     0.6571 &   0.6146 &    0.0000 \\
+delta\_cases\_per\_capita\_United\_Kingdom    &     0.6505 &   0.6039 &    0.0000 \\
+delta\_deaths\_per\_capita\_Germany          &    30.1006 &   0.1954 &    0.0219 \\
+log\_new\_vaccines\_per\_capita              &  5157.6749 &   0.1931 &    0.0657 \\
+log\_new\_people\_vaccinated\_per\_capita     &  4861.7992 &   0.1807 &    0.0734 \\
+trend                                    &     0.0000 &   0.1771 &    0.0000 \\
+delta\_deaths\_per\_capita\_United\_Kingdom   &    15.2546 &   0.1465 &    0.0285 \\
+delta\_cases\_per\_capita\_Germany           &     0.7580 &   0.1353 &    0.0224 \\
+delta\_cases\_per\_capita\_Germany\_l1        &     0.7381 &   0.1284 &    0.0201 \\
+full\_lockdown\_l30                        &    -0.0001 &   0.0571 &    0.0215 \\
+delta\_cases\_per\_capita\_France\_l1         &     0.1455 &   0.0275 &    0.0642 \\
+delta\_cases\_per\_capita\_France            &     0.1409 &   0.0256 &    0.0637 \\
+delta\_deaths\_per\_capita\_l1               &     8.6438 &   0.0252 &    0.0831 \\
+delta\_deaths\_per\_capita                  &     8.4462 &   0.0240 &    0.0867 \\
+min\_tp                                   &    -0.0000 &   0.0208 &    0.4007 \\
+delta\_deaths\_per\_capita\_France           &     4.3136 &   0.0050 &    0.3853 \\
+season                                   &    -0.0000 &   0.0048 &    0.6386 \\
+full\_lockdown                            &     0.0000 &   0.0009 &    0.7111 \\
+day\_of\_the\_week                          &     0.0000 &   0.0003 &    0.0186 \\
+rain                                     &     0.0000 &  -0.0005 &    0.5438 \\
+full\_lockdown\_l45                        &    -0.0000 &  -0.0012 &    0.8771 \\
+max\_tp                                   &    -0.0000 &  -0.0014 &    0.5800 \\
+humidity                                 &    -0.0000 &  -0.0016 &    0.8092 \\
+\bottomrule
+\end{tabular}

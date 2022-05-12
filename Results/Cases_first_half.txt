@@ -1,0 +1,19 @@
+\begin{tabular}{lr}
+\toprule
+                                                             &    0 \\
+0 &      \\
+\midrule
+(ARX, AR2, Regressor = delta\_cases\_per\_capita\_United\_Kingdom) &  100 \\
+(ARX, AR2, Regressor = humidity) &   18 \\
+(ARX, AR2, Regressor = delta\_cases\_per\_capita\_Germany) &   17 \\
+(AR, AR2, Regressor = None) &   13 \\
+(ARX, AR2, Regressor = rain) &   13 \\
+(ARX, AR2, Regressor = season) &   11 \\
+(ARX, AR2, Regressor = delta\_cases\_per\_capita\_France) &    9 \\
+(ARX, AR2, Regressor = min\_tp) &    7 \\
+(ARX, AR1, Regressor = delta\_cases\_per\_capita\_United\_Kingdom) &    6 \\
+(ARX, AR2, Regressor = day\_of\_the\_week) &    6 \\
+(ARX, AR1, Regressor = season) &    3 \\
+(ARX, AR2, Regressor = log\_new\_people\_vaccinated\_per\_capita) &    3 \\
+\bottomrule
+\end{tabular}
