@@ -1,0 +1,23 @@
+\begin{tabular}{lr}
+\toprule
+                                           &   0 \\
+0 &     \\
+\midrule
+OLS, ARNone, Regressor = delta\_deaths\_per\_capita\_United Kingdom &  48 \\
+ARX, AR1, Regressor = delta\_deaths\_per\_capita\_France &  35 \\
+ARX, AR1, Regressor = delta\_deaths\_per\_capita\_United Kingdom &  29 \\
+ARX, AR2, Regressor = day\_of\_the\_week &  20 \\
+ARX, AR1, Regressor = day\_of\_the\_week &  16 \\
+AR, AR2, Regressor = None &  14 \\
+ARX, AR1, Regressor = full\_lockdown.l45 &  12 \\
+ARX, AR2, Regressor = delta\_deaths\_per\_capita\_France &   9 \\
+AR, AR1, Regressor = None &   6 \\
+ARX, AR1, Regressor = full\_lockdown &   4 \\
+ARX, AR2, Regressor = delta\_deaths\_per\_capita\_United Kingdom &   4 \\
+ARX, AR2, Regressor = full\_lockdown.l45 &   4 \\
+ARX, AR1, Regressor = humidity &   2 \\
+ARX, AR1, Regressor = max\_tp &   1 \\
+ARX, AR2, Regressor = delta\_deaths\_per\_capita\_Germany &   1 \\
+OLS, ARNone, Regressor = full\_lockdown.l45 &   1 \\
+\bottomrule
+\end{tabular}

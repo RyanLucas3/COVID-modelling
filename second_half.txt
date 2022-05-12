@@ -1,0 +1,13 @@
+\begin{tabular}{lr}
+\toprule
+                                                     &    0 \\
+0 &      \\
+\midrule
+OLS, ARNone, Regressor = delta\_deaths\_per\_capita\_United Kingdom &  103 \\
+ARX, AR1, Regressor = delta\_deaths\_per\_capita\_United Kingdom &   51 \\
+OLS, ARNone, Regressor = full\_lockdown &   22 \\
+ARX, AR2, Regressor = delta\_deaths\_per\_capita\_United Kingdom &   13 \\
+OLS, ARNone, Regressor = delta\_deaths\_per\_capita\_France &   11 \\
+ARX, AR1, Regressor = delta\_deaths\_per\_capita\_France &    5 \\
+\bottomrule
+\end{tabular}
